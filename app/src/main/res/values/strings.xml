@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rick and Morty</string>
+    <string name="gender">Gender</string>
+    <string name="species">Species</string>
+    <string name="origin">Origin</string>
+    <string name="location">Location</string>
+    <string name="appeared_in_episodes">Appeared in episodes:</string>
+    <string name="list_of_characters">List of characters</string>
+</resources>
