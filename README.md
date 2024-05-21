@@ -8,7 +8,7 @@ The Rick and Morty is a simple Android application that allows users to browse t
 - View a list of Rick and Morty characters.
 - See basic information about each character, including name, status, species, gender, origin, and location.
 - Click on a character to view more details, including episodes associated with that character.
-- Clean and user-friendly interface
+- Clean and user-friendly interface 
 
 ## Technologies Used
 - Android Studio
